@@ -1,6 +1,6 @@
 ## Responsive Portfolio Bansi Deepak
 
-#### [Website Link](https://responsive-portfolio-bansideepak.netlify.app/)
+#### [Website Link](https://bansi-responsive-portfolio-website.netlify.app/)
 
 ### Responsive Portfolio Website 💙 
 
