@@ -8,9 +8,9 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Get connected. [Bansi Deepak](https://linktr.ee/mr.screwlooze) 
+💙 Click the link below to stay connected :-) <h2> [Bansi Deepak](https://linktr.ee/mr.screwlooze)</h2> 
 
-## DEMO
+<div align="center"> <h1> DEMO </h1> </div>
 
 ### [Website Link](https://bansi-responsive-portfolio-website.netlify.app/)
 
